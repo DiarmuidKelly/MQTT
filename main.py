@@ -1,19 +1,27 @@
 #!/usr/bin/env python3
 
-import paho.mqtt.client as mqtt
-import threading
-import json
-import time
-import datetime as dt
-from influxdb import InfluxDBClient
+# import paho.mqtt.client as mqtt
+# import threading
+# import json
+# import time
+# import datetime as dt
+# from influxdb import InfluxDBClient
+import configparser
+import pathlib
 
-MQTT_ADDRESS = 'raspberrypi.local'
-MQTT_USER = 'client'
-MQTT_PASSWORD = 'server'
-MQTT_TOPIC = 'apartment/+/+'
+config = configparser.ConfigParser()
+config_file = pathlib.Path('./config.ini')
+config_section = 'DEFAULT'
+config.read(config_file)
+config = config[config_section]
 
-db_client = InfluxDBClient(host='192.168.178.50', port=8086, username='grafana', password='grafana',
-                           database="apartment")
+MQTT_ADDRESS = config["MQTT_ADDRESS"]
+MQTT_USER = config["MQTT_USER"]
+MQTT_PASSWORD = config["MQTT_PASSWORD"]
+MQTT_TOPIC = config["MQTT_TOPIC"]
+
+db_client = InfluxDBClient(host=config['InfluxDB_HOST'], port=config['InfluxDB_PORT'], username=config['InfluxDB_USER'], password=config['InfluxDB_PASSWORD'],
+                           database=config['InfluxDB_DATABASE'])
 
 
 def on_connect(client, userdata, flags, rc):
@@ -29,27 +37,29 @@ def on_message(client, userdata, msg):
     # print(my_json)
     data = json.loads(my_json)
     s = json.dumps(data, indent=4, sort_keys=True)
+    s = json.loads(s)
     print(s)
+    print(s['tags'])
     utc_dt = dt.datetime.now(dt.timezone.utc) # UTC time
     dtime = utc_dt.astimezone() # local time
 
-    json_body = [
-        {
-            "measurement": "esp32_apartment_1",
-            "tags": {
-                "host": "esp32-1",
-                "region": "eu-centre"
-            },
-            "time": dtime,
-            "fields": {
-                "heat_index": data['heat_i'],
-                "humidity": data['humidity'],
-                "light": data['light'],
-                "temp": float(data['temp'])
-            }
-        }
-    ]
-    db_client.write_points(json_body)
+    #json_body = [
+    #    {
+    #        "measurement": "esp32_apartment_1",
+    #        "tags": {
+    #            "host": "esp32-1",
+    #            "region": "eu-centre"
+    #        },
+    #        "time": dtime,
+    #        "fields": {
+    #            "heat_index": data['heat_i'],
+    #            "humidity": data['humidity'],
+    #            "light": data['light'],
+    #            "temp": float(data['temp'])
+    #        }
+    #    }
+    #]
+    db_client.write_points(s)
 
 
 def on_publish(client, userdata, result):
