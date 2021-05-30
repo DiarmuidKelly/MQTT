@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 
-# import paho.mqtt.client as mqtt
-# import threading
-# import json
-# import time
-# import datetime as dt
-# from influxdb import InfluxDBClient
+import paho.mqtt.client as mqtt
+import threading
+import json
+import time
+import datetime as dt
+from influxdb import InfluxDBClient
 import configparser
 import pathlib
 
@@ -40,26 +40,27 @@ def on_message(client, userdata, msg):
     s = json.loads(s)
     print(s)
     print(s['tags'])
+    if s['time'] is None:
+        return
     utc_dt = dt.datetime.now(dt.timezone.utc) # UTC time
     dtime = utc_dt.astimezone() # local time
 
-    #json_body = [
-    #    {
-    #        "measurement": "esp32_apartment_1",
-    #        "tags": {
-    #            "host": "esp32-1",
-    #            "region": "eu-centre"
-    #        },
-    #        "time": dtime,
-    #        "fields": {
-    #            "heat_index": data['heat_i'],
-    #            "humidity": data['humidity'],
-    #            "light": data['light'],
-    #            "temp": float(data['temp'])
-    #        }
-    #    }
-    #]
-    db_client.write_points(s)
+    json_body = [
+       {
+           "measurement": "esp32_apartment_1",
+           "tags": {
+               "host": "esp32-1",
+               "region": "eu-centre"
+           },
+           "time": dtime,
+           "fields": {}
+       }
+    ]
+    f_list = {}
+    for field in s:
+        json_body[0]['fields'] = s["fields"]
+    print(json_body[0]["fields"])
+    db_client.write_points(json_body)
 
 
 def on_publish(client, userdata, result):
@@ -74,7 +75,8 @@ def main():
     mqtt_client.on_connect = on_connect
     mqtt_client.on_message = on_message
 
-    mqtt_client.connect(MQTT_ADDRESS, 1883)
+    mqtt_client.connect(MQTT_ADDRESS, 1883, 60)
+    # mqtt_client.connect("mqtt.eclipse.org", 1883, 60)
     mqtt_client.loop_forever()
 
 
