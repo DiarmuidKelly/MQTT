@@ -30,34 +30,6 @@ override_central_time = True
 def on_connect(client, userdata, flags, rc):
     """ The callback for when the client receives a CONNACK response from the server."""
     print('Connected with result code ' + str(rc))
-    client.subscribe(MQTT_TOPIC)
-
-
-def on_message(client, userdata, msg):
-    """The callback for when a PUBLISH message is received from the server."""
-    print(msg.topic + ' ' + str(msg.payload))
-    my_json = msg.payload.decode('utf8').replace("'", '"')
-    if str(msg.topic).split("/")[-1] == 'config':
-        return
-    # print(my_json)
-    data = json.loads(my_json)
-    s = json.dumps(data, indent=4, sort_keys=True)
-    s = json.loads(s)
-    if s['time'] is None:
-        return
-    utc_dt = dt.datetime.now(dt.timezone.utc)  # UTC time
-    dtime = utc_dt.astimezone()  # local time
-
-    if override_central_time:
-        json_body = [
-           {
-               "measurement": s['measurement'],
-               "tags": s['tags'],
-               "time": dtime,
-               "fields": s['fields']
-           }
-        ]
-    db_client.write_points(json_body)
 
 
 def on_publish(client, userdata, result):
@@ -69,11 +41,7 @@ def on_publish(client, userdata, result):
 def main():
     mqtt_client = mqtt.Client()
     mqtt_client.username_pw_set(MQTT_USER, MQTT_PASSWORD)
-    mqtt_client.on_connect = on_connect
-    mqtt_client.on_message = on_message
-
     mqtt_client.connect(MQTT_ADDRESS, 1883, 60)
-    mqtt_client.loop_forever()
 
 
 def pubber():
@@ -95,7 +63,6 @@ if __name__ == '__main__':
     # query = 'select heat_index from esp32_apartment_1;'
     # result = db_client.query(query)
     # print(result)
-    main()
-    # m = threading.Thread(target=main)
-    # m.start()
+    m = threading.Thread(target=pubber)
+    m.start()
     # TODO: record all MQTT recordings to object for Mongo insert
