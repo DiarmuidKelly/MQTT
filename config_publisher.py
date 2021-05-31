@@ -53,7 +53,7 @@ def pubber():
 
         ret = mqtt_client1.publish(MQTT_CONFIG_TOPIC, "testing")  # publish
         print(ret)
-        time.sleep(5)
+        time.sleep(1)
 
 
 if __name__ == '__main__':
