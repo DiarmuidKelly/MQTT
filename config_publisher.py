@@ -51,7 +51,36 @@ def pubber():
         mqtt_client1.connect(MQTT_ADDRESS, 1883)
         mqtt_client1.on_publish = on_publish  # assign function to callback
 
-        ret = mqtt_client1.publish(MQTT_CONFIG_TOPIC, "testing")  # publish
+        # ret = mqtt_client1.publish(MQTT_CONFIG_TOPIC, "testing")  # publish
+        utc_dt = dt.datetime.now(dt.timezone.utc)  # UTC time
+        dtime = utc_dt.astimezone()  # local time
+        json_body = {
+                "measurement": "h-pi-1",
+                "tags": {
+                    "host": "h-pi",
+                    "region": "eu-centre",
+                },
+                "time": str(dtime),
+                "fields": {
+                    "AT1": 3300,
+                    "AT2": 3200,
+                    "AT3": 2800,
+                    "LT1": 1200,
+                    "LT2": 1000,
+                    "LT3": 1000,
+                    "PD1": 10000,
+                    "PD2": 10000,
+                    "PD3": 2000,
+                    "PD4": 4000,
+                    "PTO": 600,
+                    "PTV": 60,
+                    "UF": 10000000,
+                    "Pump_on": 0
+                }
+            }
+
+        json_body = json.dumps(json_body, indent=4)
+        ret = mqtt_client1.publish(MQTT_CONFIG_TOPIC, json_body)  # publish
         print(ret)
         time.sleep(5)
 

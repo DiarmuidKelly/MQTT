@@ -43,8 +43,8 @@ def on_message(client, userdata, msg):
     data = json.loads(my_json)
     s = json.dumps(data, indent=4, sort_keys=True)
     s = json.loads(s)
-    if s['time'] is None:
-        return
+    # if s['time'] is None:
+    #     return
     utc_dt = dt.datetime.now(dt.timezone.utc)  # UTC time
     dtime = utc_dt.astimezone()  # local time
 
@@ -53,7 +53,7 @@ def on_message(client, userdata, msg):
            {
                "measurement": s['measurement'],
                "tags": s['tags'],
-               "time": dtime,
+               "time": str(dtime),
                "fields": s['fields']
            }
         ]
