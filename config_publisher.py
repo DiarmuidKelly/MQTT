@@ -82,7 +82,7 @@ def pubber():
         json_body = json.dumps(json_body, indent=4)
         ret = mqtt_client1.publish(MQTT_CONFIG_TOPIC, json_body)  # publish
         print(ret)
-        time.sleep(5)
+        time.sleep(1)
 
 
 if __name__ == '__main__':
