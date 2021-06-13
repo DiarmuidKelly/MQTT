@@ -44,7 +44,7 @@ def on_message(client, userdata, msg):
     s = json.dumps(data, indent=4, sort_keys=True)
     s = json.loads(s)
     # if s['time'] is None:
-    #     return
+    #     return>
     utc_dt = dt.datetime.now(dt.timezone.utc)  # UTC time
     dtime = utc_dt.astimezone()  # local time
 
@@ -57,6 +57,7 @@ def on_message(client, userdata, msg):
                "fields": s['fields']
            }
         ]
+    # print(json_body)
     db_client.write_points(json_body)
 
 
