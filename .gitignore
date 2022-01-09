@@ -1,2 +1,4 @@
 config.ini
 .idea/
+influx/.env
+mosquitto/passwd
