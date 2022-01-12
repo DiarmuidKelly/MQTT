@@ -4,3 +4,4 @@ influx/.env
 mosquitto/passwd
 .vscode/
 .pytest_cache
+mosquitto/mosquitto.log
