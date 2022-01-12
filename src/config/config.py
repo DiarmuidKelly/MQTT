@@ -1,7 +1,7 @@
 import configparser
 import pathlib
 
-def parse(config_path='./config.ini', config_section='DEFAULT'):
+def parse(config_path='./src/config.ini', config_section='DEFAULT'):
     config = configparser.ConfigParser()
     config_file = pathlib.Path(config_path)
     config.read(config_file)

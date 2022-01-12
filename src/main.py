@@ -2,61 +2,101 @@
 
 import paho.mqtt.client as mqtt
 import json
+import time
+import os, sys
 import datetime as dt
-from influxdb import InfluxDBClient
+from influxdb_client import InfluxDBClient, Point
+from influxdb_client.client.write_api import SYNCHRONOUS
 from config.config import parse
 import logging
+import threading
 
-logging.basicConfig(format='%(asctime)s -- %(levelname)s:%(message)s', level=logging.DEBUG)
+logging.basicConfig(format='%(asctime)s -- %(levelname)s :  %(funcName)s(ln:%(lineno)d) :: %(message)s')
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 def on_connect(client, userdata, flags, rc):
     """ The callback for when the client receives a CONNACK response from the server."""
-    logging.debug('Connected with result code ' + str(rc))
-    client.subscribe(config["MQTT_TOPIC"])
+    logger.debug('Connected with result code ' + str(rc))
+    pass
 
+def on_publish(client, userdata, result):
+    """create function for callback"""
+    logger.debug("data published")
+    pass
 
 def on_message(client, userdata, msg):
     """The callback for when a PUBLISH message is received from the server."""
-    logging.info(msg.topic + ' ' + str(msg.payload))
+    logger.debug(msg.topic + ' ' + str(msg.payload))
     my_json = msg.payload.decode('utf8').replace("'", '"')
-    if str(msg.topic).split("/")[-1] == 'config':
+    if str(msg.topic).split("/")[0] == 'config':
+        logger.info("Config message received")
         return
+    logger.info("Message received")
     data = json.loads(my_json)
     s = json.dumps(data, indent=4, sort_keys=True)
     s = json.loads(s)
-    utc_dt = dt.datetime.now(dt.timezone.utc)  # UTC time
-    dtime = utc_dt.astimezone()  # local time
+    utc_dt = dt.datetime.now(dt.timezone.utc)
+    dtime = utc_dt.astimezone()
 
-    if override_central_time:
-        json_body = [
-           {
-               "measurement": s['measurement'],
-               "tags": s['tags'],
-               "time": str(dtime),
-               "fields": s['fields']
-           }
-        ]
-    db_client.write_points(json_body)
+    json_body = {
+            "measurement": s['measurement'],
+            "tags": s['tags'],
+            "fields": s['fields'],
+            "time": str(dtime)
+        }
+    write_api.write(bucket=bucket, record=Point.from_dict(json_body))
 
 def main():
-    override_central_time = True
-    mqtt_client = mqtt.Client()
+    mqtt_client = mqtt.Client("mqtt-listener")
     mqtt_client.username_pw_set(config["MQTT_USER"], config["MQTT_PASSWORD"])
     mqtt_client.on_connect = on_connect
     mqtt_client.on_message = on_message
 
     mqtt_client.connect(config["MQTT_ADDRESS"], 1883, 60)
+    mqtt_client.subscribe(config["MQTT_TOPIC"])
+    mqtt_client.subscribe(config["MQTT_CONFIG_TOPIC"])
     mqtt_client.loop_forever()
 
+
+def pubber():
+    mqtt_client1 = mqtt.Client("mqtt-publisher")
+    mqtt_client1.username_pw_set(config["MQTT_USER"], config["MQTT_PASSWORD"])
+    mqtt_client1.connect(config["MQTT_ADDRESS"], 1883)
+
+    mqtt_client1.on_publish = on_publish
+
+    while True:
+        json_body = {
+                "measurement": "test",
+                "tags": {"test": "test"},
+                "fields": {"test": 1},
+            }        
+
+        json_body = json.dumps(json_body, indent=4)
+        mqtt_client1.publish(config["MQTT_CONFIG_TOPIC"], json_body)
+        time.sleep(5)
+
 if __name__ == '__main__':
-    logging.info('MQTT to InfluxDB bridge')
+    logger.info('MQTT to InfluxDB bridge')
     config = parse(config_section="TEST")
-    db_client = InfluxDBClient(host=config['InfluxDB_HOST'], 
-                                port=config['InfluxDB_PORT'], 
-                                username=config['InfluxDB_USER'], 
-                                password=config['InfluxDB_PASSWORD'],
-                                database=config['InfluxDB_DATABASE'])
-    
-    logging.debug(db_client.get_list_database())
-    db_client.switch_database('apartment')
-    main()
+
+    m = threading.Thread(target=pubber, daemon=True)
+    m.start()
+
+    bucket = "main"
+    db_client = InfluxDBClient(url=f"http://{config['InfluxDB_HOST']}:{config['InfluxDB_PORT']}", 
+                                token= "Z2ADB_tBwWNRlQaCNYB9DI8_Z49i4KXK6M0iHmlAuDtK2K8lSBvu7Szqc1XAT2Lk_Fkey7gkqUPeL5MtPV5Rwg==", 
+                                org='main')
+    write_api = db_client.write_api(write_options=SYNCHRONOUS)
+    query_api = db_client.query_api()
+
+    try:
+        main()
+    except KeyboardInterrupt:
+        logger.warning("Stopping")
+        try:
+            sys.exit(0)
+        except SystemExit:
+            os._exit(0)
+

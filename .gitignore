@@ -1,4 +1,6 @@
-config.ini
+src/config.ini
 .idea/
 influx/.env
 mosquitto/passwd
+.vscode/
+.pytest_cache

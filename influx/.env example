@@ -1,0 +1,2 @@
+INFLUXDB_USERNAME=<username>
+INFLUXDB_PASSWORD=<password>
