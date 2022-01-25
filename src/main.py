@@ -55,7 +55,7 @@ def main():
 
     mqtt_client.connect(config["MQTT_ADDRESS"], 1883, 60)
     mqtt_client.subscribe(config["MQTT_TOPIC"])
-    mqtt_client.subscribe(config["MQTT_CONFIG_TOPIC"])
+    # mqtt_client.subscribe(config["MQTT_CONFIG_TOPIC"])
     mqtt_client.loop_forever()
 
 
