@@ -1,7 +1,9 @@
 src/config.ini
 .idea/
 influx/.env
+influx/influxdb/
 mosquitto/passwd
 .vscode/
 .pytest_cache
 mosquitto/mosquitto.log
+*.pyc
