@@ -1,0 +1,14 @@
+include:
+  - influx/docker-compose.influxdb.yaml
+  - mosquitto/docker-compose.mosquitto.yaml
+  - grafana/docker-compose.grafana.yaml
+
+# services:
+#   # mosquitto:
+#   # influxdb:
+#   grafana:
+#     depends_on:
+#       - influxdb
+
+networks:
+  main:

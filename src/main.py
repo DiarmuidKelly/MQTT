@@ -86,8 +86,8 @@ if __name__ == '__main__':
 
     bucket = "main"
     db_client = InfluxDBClient(url=f"http://{config['InfluxDB_HOST']}:{config['InfluxDB_PORT']}", 
-                                token= "Z2ADB_tBwWNRlQaCNYB9DI8_Z49i4KXK6M0iHmlAuDtK2K8lSBvu7Szqc1XAT2Lk_Fkey7gkqUPeL5MtPV5Rwg==", 
-                                org='main')
+                                token= config['INFLUXDB_TOKEN'], 
+                                org=config['INFLUXB_ORG'])
     write_api = db_client.write_api(write_options=SYNCHRONOUS)
     query_api = db_client.query_api()
 

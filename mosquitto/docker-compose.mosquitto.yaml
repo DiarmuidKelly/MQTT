@@ -1,7 +1,5 @@
-version: "3"
-
 services:
-  eclipse-mosquitto:
+  mosquitto:
     build:
       context: .
     container_name: eclipse-mosquitto
@@ -9,5 +7,12 @@ services:
     ports:
       - "1883:1883"
       - "9001:9001"
+    networks:
+      - main
     volumes:
       - ./mosquitto.log:/mosquitto/log/mosquitto.log:rw
+      - ./mosquitto.conf:/mosquitto/config/mosquitto.conf:rw
+      - ./passwd.set:/etc/mosquitto/passwd:rw
+
+networks:
+  main:

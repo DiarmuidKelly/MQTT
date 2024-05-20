@@ -1,10 +1,12 @@
 #!/bin/sh
 
-PASSWDFILE=/etc/mosquitto/passwd
+RAWPASSWDFILE=/etc/mosquitto/passwd.raw
+OUTPASSWDFILE=/etc/mosquitto/passwd
 
-if [ -f $PASSWDFILE ]; then
+if [ -f $RAWPASSWDFILE ]; then
     echo "converting password file"
-    mosquitto_passwd -U $PASSWDFILE
+    cp -i $RAWPASSWDFILE $OUTPASSWDFILE
+    mosquitto_passwd -U $OUTPASSWDFILE
 fi
 
 exec "$@"

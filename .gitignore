@@ -5,3 +5,4 @@ mosquitto/passwd
 .vscode/
 .pytest_cache
 mosquitto/mosquitto.log
+__pycache__/

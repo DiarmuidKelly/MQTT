@@ -1,13 +1,17 @@
-version: "3"
-
 services:
   influxdb:
-    image: influxdb:2.1.1
+    image: influxdb:latest
     container_name: influxdb
     restart: always
     ports:
       - "8086:8086"
+    networks:
+      - main
+    env_file:
+      - path: .env
+        required: true
     volumes:
-      - ~/influxdb/data:/var/lib/influxdb
-      # - ~/influxdb/influxdb.conf:/etc/influxdb/influxdb.conf:ro
-      # - ~/influxdb/init:/docker-entrypoint-initdb.d
+      - ./influxdb/data:/var/lib/influxdb
+
+networks:
+  main:

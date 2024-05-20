@@ -1,8 +1,12 @@
-version: "3"
-
 services:
   grafana:
     image: grafana/grafana:latest
     container_name: grafana
-    network_mode: "host"
     restart: always
+    networks:
+      - main
+    ports:
+      - "3000:3000"
+
+networks:
+  main:

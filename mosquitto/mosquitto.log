@@ -1,0 +1,1270 @@
+1716058285: mosquitto version 2.0.15 starting
+1716058285: Config loaded from /mosquitto/config/mosquitto.conf.
+1716058285: Opening ipv4 listen socket on port 1883.
+1716058285: Opening ipv4 listen socket on port 9001.
+1716058285: mosquitto version 2.0.15 running
+1716058306: mosquitto version 2.0.15 terminating
+1716058310: mosquitto version 2.0.15 starting
+1716058310: Config loaded from /mosquitto/config/mosquitto.conf.
+1716058310: Opening ipv4 listen socket on port 1883.
+1716058310: Opening ipv4 listen socket on port 9001.
+1716058310: mosquitto version 2.0.15 running
+1716060879: mosquitto version 2.0.15 terminating
+1716128043: mosquitto version 2.0.15 starting
+1716128043: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128043: Opening ipv4 listen socket on port 1883.
+1716128043: Opening ipv4 listen socket on port 9001.
+1716128043: mosquitto version 2.0.15 running
+1716128044: mosquitto version 2.0.15 terminating
+1716128222: mosquitto version 2.0.15 starting
+1716128222: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128222: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128222: Error opening password file "/etc/mosquitto/passwd".
+1716128223: mosquitto version 2.0.15 starting
+1716128223: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128223: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128223: Error opening password file "/etc/mosquitto/passwd".
+1716128223: mosquitto version 2.0.15 starting
+1716128223: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128223: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128223: Error opening password file "/etc/mosquitto/passwd".
+1716128224: mosquitto version 2.0.15 starting
+1716128224: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128224: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128224: Error opening password file "/etc/mosquitto/passwd".
+1716128226: mosquitto version 2.0.15 starting
+1716128226: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128226: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128226: Error opening password file "/etc/mosquitto/passwd".
+1716128228: mosquitto version 2.0.15 starting
+1716128228: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128228: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128228: Error opening password file "/etc/mosquitto/passwd".
+1716128231: mosquitto version 2.0.15 starting
+1716128231: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128231: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128231: Error opening password file "/etc/mosquitto/passwd".
+1716128238: mosquitto version 2.0.15 starting
+1716128238: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128238: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128238: Error opening password file "/etc/mosquitto/passwd".
+1716128251: mosquitto version 2.0.15 starting
+1716128251: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128251: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128251: Error opening password file "/etc/mosquitto/passwd".
+1716128280: mosquitto version 2.0.15 starting
+1716128280: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128280: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128280: Error opening password file "/etc/mosquitto/passwd".
+1716128280: mosquitto version 2.0.15 starting
+1716128280: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128280: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128280: Error opening password file "/etc/mosquitto/passwd".
+1716128281: mosquitto version 2.0.15 starting
+1716128281: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128281: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128281: Error opening password file "/etc/mosquitto/passwd".
+1716128282: mosquitto version 2.0.15 starting
+1716128282: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128282: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128282: Error opening password file "/etc/mosquitto/passwd".
+1716128283: mosquitto version 2.0.15 starting
+1716128283: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128283: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128283: Error opening password file "/etc/mosquitto/passwd".
+1716128285: mosquitto version 2.0.15 starting
+1716128285: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128285: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128285: Error opening password file "/etc/mosquitto/passwd".
+1716128289: mosquitto version 2.0.15 starting
+1716128289: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128289: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128289: Error opening password file "/etc/mosquitto/passwd".
+1716128296: mosquitto version 2.0.15 starting
+1716128296: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128296: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128296: Error opening password file "/etc/mosquitto/passwd".
+1716128309: mosquitto version 2.0.15 starting
+1716128309: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128309: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128309: Error opening password file "/etc/mosquitto/passwd".
+1716128335: mosquitto version 2.0.15 starting
+1716128335: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128335: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716128335: Error opening password file "/etc/mosquitto/passwd".
+1716128384: mosquitto version 2.0.15 starting
+1716128384: Config loaded from /mosquitto/config/mosquitto.conf.
+1716128384: Opening ipv4 listen socket on port 1883.
+1716128384: Opening ipv4 listen socket on port 9001.
+1716128384: mosquitto version 2.0.15 running
+1716128453: mosquitto version 2.0.15 terminating
+1716134210: mosquitto version 2.0.18 starting
+1716134210: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134210: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134210: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134210: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134210: Error: /etc/mosquitto/passwd is not a file.
+1716134210: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134210: Error opening password file "/etc/mosquitto/passwd".
+1716134211: mosquitto version 2.0.18 starting
+1716134211: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134211: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134211: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134211: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134211: Error: /etc/mosquitto/passwd is not a file.
+1716134211: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134211: Error opening password file "/etc/mosquitto/passwd".
+1716134212: mosquitto version 2.0.18 starting
+1716134212: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134212: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134212: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134212: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134212: Error: /etc/mosquitto/passwd is not a file.
+1716134212: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134212: Error opening password file "/etc/mosquitto/passwd".
+1716134213: mosquitto version 2.0.18 starting
+1716134213: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134213: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134213: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134213: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134213: Error: /etc/mosquitto/passwd is not a file.
+1716134213: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134213: Error opening password file "/etc/mosquitto/passwd".
+1716134214: mosquitto version 2.0.18 starting
+1716134214: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134214: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134214: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134214: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134214: Error: /etc/mosquitto/passwd is not a file.
+1716134214: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134214: Error opening password file "/etc/mosquitto/passwd".
+1716134217: mosquitto version 2.0.18 starting
+1716134217: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134217: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134217: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134217: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134217: Error: /etc/mosquitto/passwd is not a file.
+1716134217: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134217: Error opening password file "/etc/mosquitto/passwd".
+1716134221: mosquitto version 2.0.18 starting
+1716134221: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134221: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134221: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134221: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134221: Error: /etc/mosquitto/passwd is not a file.
+1716134221: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134221: Error opening password file "/etc/mosquitto/passwd".
+1716134228: mosquitto version 2.0.18 starting
+1716134228: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134228: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134228: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134228: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134228: Error: /etc/mosquitto/passwd is not a file.
+1716134228: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134228: Error opening password file "/etc/mosquitto/passwd".
+1716134241: mosquitto version 2.0.18 starting
+1716134241: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134241: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134241: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134241: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134241: Error: /etc/mosquitto/passwd is not a file.
+1716134241: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134241: Error opening password file "/etc/mosquitto/passwd".
+1716134267: mosquitto version 2.0.18 starting
+1716134267: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134267: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134267: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134267: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134267: Error: /etc/mosquitto/passwd is not a file.
+1716134267: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134267: Error opening password file "/etc/mosquitto/passwd".
+1716134318: mosquitto version 2.0.18 starting
+1716134318: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134318: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134318: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134318: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134318: Error: /etc/mosquitto/passwd is not a file.
+1716134318: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134318: Error opening password file "/etc/mosquitto/passwd".
+1716134361: mosquitto version 2.0.18 starting
+1716134361: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134361: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134361: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134361: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134361: Error: /etc/mosquitto/passwd is not a file.
+1716134361: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134361: Error opening password file "/etc/mosquitto/passwd".
+1716134361: mosquitto version 2.0.18 starting
+1716134361: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134361: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134361: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134361: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134361: Error: /etc/mosquitto/passwd is not a file.
+1716134361: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134361: Error opening password file "/etc/mosquitto/passwd".
+1716134362: mosquitto version 2.0.18 starting
+1716134362: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134362: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134362: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134362: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134362: Error: /etc/mosquitto/passwd is not a file.
+1716134362: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134362: Error opening password file "/etc/mosquitto/passwd".
+1716134363: mosquitto version 2.0.18 starting
+1716134363: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134363: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134363: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134363: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134363: Error: /etc/mosquitto/passwd is not a file.
+1716134363: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134363: Error opening password file "/etc/mosquitto/passwd".
+1716134364: mosquitto version 2.0.18 starting
+1716134364: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134364: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134364: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134364: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134364: Error: /etc/mosquitto/passwd is not a file.
+1716134364: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134364: Error opening password file "/etc/mosquitto/passwd".
+1716134366: mosquitto version 2.0.18 starting
+1716134366: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134366: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134366: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134366: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134366: Error: /etc/mosquitto/passwd is not a file.
+1716134366: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134366: Error opening password file "/etc/mosquitto/passwd".
+1716134370: mosquitto version 2.0.18 starting
+1716134370: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134370: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134370: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134370: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134370: Error: /etc/mosquitto/passwd is not a file.
+1716134370: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134370: Error opening password file "/etc/mosquitto/passwd".
+1716134376: mosquitto version 2.0.18 starting
+1716134376: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134376: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134376: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134376: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134376: Error: /etc/mosquitto/passwd is not a file.
+1716134376: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134376: Error opening password file "/etc/mosquitto/passwd".
+1716134390: mosquitto version 2.0.18 starting
+1716134390: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134390: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134390: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134390: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134390: Error: /etc/mosquitto/passwd is not a file.
+1716134390: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134390: Error opening password file "/etc/mosquitto/passwd".
+1716134416: mosquitto version 2.0.18 starting
+1716134416: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134416: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134416: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134416: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134416: Error: /etc/mosquitto/passwd is not a file.
+1716134416: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134416: Error opening password file "/etc/mosquitto/passwd".
+1716134467: mosquitto version 2.0.18 starting
+1716134467: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134467: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134467: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134467: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134467: Error: /etc/mosquitto/passwd is not a file.
+1716134467: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134467: Error opening password file "/etc/mosquitto/passwd".
+1716134528: mosquitto version 2.0.18 starting
+1716134528: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134528: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134528: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134528: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134528: Error: /etc/mosquitto/passwd is not a file.
+1716134528: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134528: Error opening password file "/etc/mosquitto/passwd".
+1716134588: mosquitto version 2.0.18 starting
+1716134588: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134588: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134588: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134588: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134588: Error: /etc/mosquitto/passwd is not a file.
+1716134588: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134588: Error opening password file "/etc/mosquitto/passwd".
+1716134648: mosquitto version 2.0.18 starting
+1716134648: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134648: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134648: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134648: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134648: Error: /etc/mosquitto/passwd is not a file.
+1716134648: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134648: Error opening password file "/etc/mosquitto/passwd".
+1716134709: mosquitto version 2.0.18 starting
+1716134709: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134709: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134709: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134709: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134709: Error: /etc/mosquitto/passwd is not a file.
+1716134709: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134709: Error opening password file "/etc/mosquitto/passwd".
+1716134769: mosquitto version 2.0.18 starting
+1716134769: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134769: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134769: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134769: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134769: Error: /etc/mosquitto/passwd is not a file.
+1716134769: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134769: Error opening password file "/etc/mosquitto/passwd".
+1716134830: mosquitto version 2.0.18 starting
+1716134830: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134830: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134830: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134830: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134830: Error: /etc/mosquitto/passwd is not a file.
+1716134830: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134830: Error opening password file "/etc/mosquitto/passwd".
+1716134890: mosquitto version 2.0.18 starting
+1716134890: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134890: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134890: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134890: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134890: Error: /etc/mosquitto/passwd is not a file.
+1716134890: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134890: Error opening password file "/etc/mosquitto/passwd".
+1716134893: mosquitto version 2.0.18 starting
+1716134893: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134893: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134893: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134893: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134893: Error: /etc/mosquitto/passwd is not a file.
+1716134893: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134893: Error opening password file "/etc/mosquitto/passwd".
+1716134894: mosquitto version 2.0.18 starting
+1716134894: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134894: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134894: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134894: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134894: Error: /etc/mosquitto/passwd is not a file.
+1716134894: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134894: Error opening password file "/etc/mosquitto/passwd".
+1716134895: mosquitto version 2.0.18 starting
+1716134895: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134895: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134895: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134895: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134895: Error: /etc/mosquitto/passwd is not a file.
+1716134895: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134895: Error opening password file "/etc/mosquitto/passwd".
+1716134896: mosquitto version 2.0.18 starting
+1716134896: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134896: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134896: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134896: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134896: Error: /etc/mosquitto/passwd is not a file.
+1716134896: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134896: Error opening password file "/etc/mosquitto/passwd".
+1716134897: mosquitto version 2.0.18 starting
+1716134897: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134897: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134897: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134897: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134897: Error: /etc/mosquitto/passwd is not a file.
+1716134897: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134897: Error opening password file "/etc/mosquitto/passwd".
+1716134899: mosquitto version 2.0.18 starting
+1716134899: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134899: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134899: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134899: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134899: Error: /etc/mosquitto/passwd is not a file.
+1716134899: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134899: Error opening password file "/etc/mosquitto/passwd".
+1716134903: mosquitto version 2.0.18 starting
+1716134903: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134903: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134903: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134903: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134903: Error: /etc/mosquitto/passwd is not a file.
+1716134903: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134903: Error opening password file "/etc/mosquitto/passwd".
+1716134910: mosquitto version 2.0.18 starting
+1716134910: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134910: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134910: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134910: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134910: Error: /etc/mosquitto/passwd is not a file.
+1716134910: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134910: Error opening password file "/etc/mosquitto/passwd".
+1716134923: mosquitto version 2.0.18 starting
+1716134923: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134923: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134923: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134923: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134923: Error: /etc/mosquitto/passwd is not a file.
+1716134923: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134923: Error opening password file "/etc/mosquitto/passwd".
+1716134949: mosquitto version 2.0.18 starting
+1716134949: Config loaded from /mosquitto/config/mosquitto.conf.
+1716134949: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716134949: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716134949: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716134949: Error: /etc/mosquitto/passwd is not a file.
+1716134949: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716134949: Error opening password file "/etc/mosquitto/passwd".
+1716135000: mosquitto version 2.0.18 starting
+1716135000: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135000: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135000: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135000: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135000: Error: /etc/mosquitto/passwd is not a file.
+1716135000: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135000: Error opening password file "/etc/mosquitto/passwd".
+1716135003: mosquitto version 2.0.18 starting
+1716135003: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135003: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135003: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135003: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135003: Error: /etc/mosquitto/passwd is not a file.
+1716135003: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135003: Error opening password file "/etc/mosquitto/passwd".
+1716135003: mosquitto version 2.0.18 starting
+1716135003: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135003: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135003: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135003: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135003: Error: /etc/mosquitto/passwd is not a file.
+1716135003: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135003: Error opening password file "/etc/mosquitto/passwd".
+1716135004: mosquitto version 2.0.18 starting
+1716135004: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135004: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135004: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135004: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135004: Error: /etc/mosquitto/passwd is not a file.
+1716135004: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135004: Error opening password file "/etc/mosquitto/passwd".
+1716135005: mosquitto version 2.0.18 starting
+1716135005: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135005: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135005: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135005: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135005: Error: /etc/mosquitto/passwd is not a file.
+1716135005: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135005: Error opening password file "/etc/mosquitto/passwd".
+1716135006: mosquitto version 2.0.18 starting
+1716135006: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135006: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135006: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135006: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135006: Error: /etc/mosquitto/passwd is not a file.
+1716135006: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135006: Error opening password file "/etc/mosquitto/passwd".
+1716135008: mosquitto version 2.0.18 starting
+1716135008: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135008: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135008: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135008: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135008: Error: /etc/mosquitto/passwd is not a file.
+1716135008: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135008: Error opening password file "/etc/mosquitto/passwd".
+1716135012: mosquitto version 2.0.18 starting
+1716135012: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135012: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135012: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135012: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135012: Error: /etc/mosquitto/passwd is not a file.
+1716135012: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135012: Error opening password file "/etc/mosquitto/passwd".
+1716135018: mosquitto version 2.0.18 starting
+1716135018: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135018: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135018: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135018: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135018: Error: /etc/mosquitto/passwd is not a file.
+1716135018: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135018: Error opening password file "/etc/mosquitto/passwd".
+1716135032: mosquitto version 2.0.18 starting
+1716135032: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135032: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135032: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135032: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135032: Error: /etc/mosquitto/passwd is not a file.
+1716135032: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135032: Error opening password file "/etc/mosquitto/passwd".
+1716135058: mosquitto version 2.0.18 starting
+1716135058: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135058: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135058: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135058: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135058: Error: /etc/mosquitto/passwd is not a file.
+1716135058: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135058: Error opening password file "/etc/mosquitto/passwd".
+1716135075: mosquitto version 2.0.18 starting
+1716135075: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135075: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135075: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135075: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135075: Error: /etc/mosquitto/passwd is not a file.
+1716135075: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135075: Error opening password file "/etc/mosquitto/passwd".
+1716135076: mosquitto version 2.0.18 starting
+1716135076: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135076: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135076: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135076: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135076: Error: /etc/mosquitto/passwd is not a file.
+1716135076: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135076: Error opening password file "/etc/mosquitto/passwd".
+1716135077: mosquitto version 2.0.18 starting
+1716135077: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135077: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135077: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135077: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135077: Error: /etc/mosquitto/passwd is not a file.
+1716135077: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135077: Error opening password file "/etc/mosquitto/passwd".
+1716135078: mosquitto version 2.0.18 starting
+1716135078: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135078: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135078: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135078: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135078: Error: /etc/mosquitto/passwd is not a file.
+1716135078: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135078: Error opening password file "/etc/mosquitto/passwd".
+1716135079: mosquitto version 2.0.18 starting
+1716135079: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135079: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135079: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135079: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135079: Error: /etc/mosquitto/passwd is not a file.
+1716135079: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135079: Error opening password file "/etc/mosquitto/passwd".
+1716135081: mosquitto version 2.0.18 starting
+1716135081: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135081: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135081: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135081: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135081: Error: /etc/mosquitto/passwd is not a file.
+1716135081: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135081: Error opening password file "/etc/mosquitto/passwd".
+1716135084: mosquitto version 2.0.18 starting
+1716135084: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135084: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135084: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135084: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135084: Error: /etc/mosquitto/passwd is not a file.
+1716135084: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135084: Error opening password file "/etc/mosquitto/passwd".
+1716135091: mosquitto version 2.0.18 starting
+1716135091: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135091: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135091: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135091: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135091: Error: /etc/mosquitto/passwd is not a file.
+1716135091: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135091: Error opening password file "/etc/mosquitto/passwd".
+1716135104: mosquitto version 2.0.18 starting
+1716135104: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135104: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135104: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135104: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135104: Error: /etc/mosquitto/passwd is not a file.
+1716135104: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135104: Error opening password file "/etc/mosquitto/passwd".
+1716135130: mosquitto version 2.0.18 starting
+1716135130: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135130: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135130: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135130: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135130: Error: /etc/mosquitto/passwd is not a file.
+1716135130: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135130: Error opening password file "/etc/mosquitto/passwd".
+1716135182: mosquitto version 2.0.18 starting
+1716135182: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135182: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135182: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135182: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135182: Error: /etc/mosquitto/passwd is not a file.
+1716135182: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135182: Error opening password file "/etc/mosquitto/passwd".
+1716135242: mosquitto version 2.0.18 starting
+1716135242: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135242: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135242: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135242: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135242: Error: /etc/mosquitto/passwd is not a file.
+1716135242: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135242: Error opening password file "/etc/mosquitto/passwd".
+1716135303: mosquitto version 2.0.18 starting
+1716135303: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135303: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135303: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135303: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135303: Error: /etc/mosquitto/passwd is not a file.
+1716135303: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135303: Error opening password file "/etc/mosquitto/passwd".
+1716135363: mosquitto version 2.0.18 starting
+1716135363: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135363: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135363: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135363: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135363: Error: /etc/mosquitto/passwd is not a file.
+1716135363: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135363: Error opening password file "/etc/mosquitto/passwd".
+1716135423: mosquitto version 2.0.18 starting
+1716135423: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135423: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135423: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135423: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135423: Error: /etc/mosquitto/passwd is not a file.
+1716135423: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135423: Error opening password file "/etc/mosquitto/passwd".
+1716135484: mosquitto version 2.0.18 starting
+1716135484: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135484: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135484: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135484: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135484: Error: /etc/mosquitto/passwd is not a file.
+1716135484: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135484: Error opening password file "/etc/mosquitto/passwd".
+1716135544: mosquitto version 2.0.18 starting
+1716135544: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135544: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135544: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135544: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135544: Error: /etc/mosquitto/passwd is not a file.
+1716135544: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135544: Error opening password file "/etc/mosquitto/passwd".
+1716135605: mosquitto version 2.0.18 starting
+1716135605: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135605: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135605: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135605: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135605: Error: /etc/mosquitto/passwd is not a file.
+1716135605: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135605: Error opening password file "/etc/mosquitto/passwd".
+1716135665: mosquitto version 2.0.18 starting
+1716135665: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135665: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135665: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135665: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135665: Error: /etc/mosquitto/passwd is not a file.
+1716135665: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135665: Error opening password file "/etc/mosquitto/passwd".
+1716135726: mosquitto version 2.0.18 starting
+1716135726: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135726: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135726: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135726: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135726: Error: /etc/mosquitto/passwd is not a file.
+1716135726: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135726: Error opening password file "/etc/mosquitto/passwd".
+1716135786: mosquitto version 2.0.18 starting
+1716135786: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135786: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135786: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135786: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135786: Error: /etc/mosquitto/passwd is not a file.
+1716135786: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135786: Error opening password file "/etc/mosquitto/passwd".
+1716135820: mosquitto version 2.0.18 starting
+1716135820: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135820: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135820: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135820: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135820: Error: /etc/mosquitto/passwd is not a file.
+1716135820: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135820: Error opening password file "/etc/mosquitto/passwd".
+1716135821: mosquitto version 2.0.18 starting
+1716135821: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135821: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135821: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135821: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135821: Error: /etc/mosquitto/passwd is not a file.
+1716135821: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135821: Error opening password file "/etc/mosquitto/passwd".
+1716135822: mosquitto version 2.0.18 starting
+1716135822: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135822: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135822: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135822: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135822: Error: /etc/mosquitto/passwd is not a file.
+1716135822: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135822: Error opening password file "/etc/mosquitto/passwd".
+1716135823: mosquitto version 2.0.18 starting
+1716135823: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135823: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135823: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135823: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135823: Error: /etc/mosquitto/passwd is not a file.
+1716135823: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135823: Error opening password file "/etc/mosquitto/passwd".
+1716135824: mosquitto version 2.0.18 starting
+1716135824: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135824: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135824: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135824: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135824: Error: /etc/mosquitto/passwd is not a file.
+1716135824: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135824: Error opening password file "/etc/mosquitto/passwd".
+1716135826: mosquitto version 2.0.18 starting
+1716135826: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135826: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135826: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135826: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135826: Error: /etc/mosquitto/passwd is not a file.
+1716135826: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135826: Error opening password file "/etc/mosquitto/passwd".
+1716135829: mosquitto version 2.0.18 starting
+1716135829: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135829: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135829: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135829: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135829: Error: /etc/mosquitto/passwd is not a file.
+1716135829: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135829: Error opening password file "/etc/mosquitto/passwd".
+1716135836: mosquitto version 2.0.18 starting
+1716135836: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135836: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135836: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135836: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135836: Error: /etc/mosquitto/passwd is not a file.
+1716135836: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135836: Error opening password file "/etc/mosquitto/passwd".
+1716135849: mosquitto version 2.0.18 starting
+1716135849: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135849: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135849: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135849: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135849: Error: /etc/mosquitto/passwd is not a file.
+1716135849: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135849: Error opening password file "/etc/mosquitto/passwd".
+1716135875: mosquitto version 2.0.18 starting
+1716135875: Config loaded from /mosquitto/config/mosquitto.conf.
+1716135875: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716135875: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716135875: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716135875: Error: /etc/mosquitto/passwd is not a file.
+1716135875: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716135875: Error opening password file "/etc/mosquitto/passwd".
+1716136382: mosquitto version 2.0.18 starting
+1716136382: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136382: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136382: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136382: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136382: Error: /etc/mosquitto/passwd is not a file.
+1716136382: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136382: Error opening password file "/etc/mosquitto/passwd".
+1716136442: mosquitto version 2.0.18 starting
+1716136442: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136442: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136442: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136442: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136442: Error: /etc/mosquitto/passwd is not a file.
+1716136442: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136442: Error opening password file "/etc/mosquitto/passwd".
+1716136503: mosquitto version 2.0.18 starting
+1716136503: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136503: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136503: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136503: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136503: Error: /etc/mosquitto/passwd is not a file.
+1716136503: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136503: Error opening password file "/etc/mosquitto/passwd".
+1716136563: mosquitto version 2.0.18 starting
+1716136563: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136563: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136563: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136563: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136563: Error: /etc/mosquitto/passwd is not a file.
+1716136563: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136563: Error opening password file "/etc/mosquitto/passwd".
+1716136623: mosquitto version 2.0.18 starting
+1716136623: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136623: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136623: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136623: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136623: Error: /etc/mosquitto/passwd is not a file.
+1716136623: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136623: Error opening password file "/etc/mosquitto/passwd".
+1716136684: mosquitto version 2.0.18 starting
+1716136684: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136684: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136684: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136684: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136684: Error: /etc/mosquitto/passwd is not a file.
+1716136684: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136684: Error opening password file "/etc/mosquitto/passwd".
+1716136744: mosquitto version 2.0.18 starting
+1716136744: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136744: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136744: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136744: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136744: Error: /etc/mosquitto/passwd is not a file.
+1716136744: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136744: Error opening password file "/etc/mosquitto/passwd".
+1716136805: mosquitto version 2.0.18 starting
+1716136805: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136805: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136805: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136805: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136805: Error: /etc/mosquitto/passwd is not a file.
+1716136805: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136805: Error opening password file "/etc/mosquitto/passwd".
+1716136865: mosquitto version 2.0.18 starting
+1716136865: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136865: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136865: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136865: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136865: Error: /etc/mosquitto/passwd is not a file.
+1716136865: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136865: Error opening password file "/etc/mosquitto/passwd".
+1716136925: mosquitto version 2.0.18 starting
+1716136925: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136925: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136925: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136925: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136925: Error: /etc/mosquitto/passwd is not a file.
+1716136925: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136925: Error opening password file "/etc/mosquitto/passwd".
+1716136986: mosquitto version 2.0.18 starting
+1716136986: Config loaded from /mosquitto/config/mosquitto.conf.
+1716136986: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716136986: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716136986: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716136986: Error: /etc/mosquitto/passwd is not a file.
+1716136986: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716136986: Error opening password file "/etc/mosquitto/passwd".
+1716137046: mosquitto version 2.0.18 starting
+1716137046: Config loaded from /mosquitto/config/mosquitto.conf.
+1716137046: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716137046: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716137046: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716137046: Error: /etc/mosquitto/passwd is not a file.
+1716137046: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716137046: Error opening password file "/etc/mosquitto/passwd".
+1716137106: mosquitto version 2.0.18 starting
+1716137106: Config loaded from /mosquitto/config/mosquitto.conf.
+1716137106: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716137106: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716137106: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716137106: Error: /etc/mosquitto/passwd is not a file.
+1716137106: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716137106: Error opening password file "/etc/mosquitto/passwd".
+1716139737: mosquitto version 2.0.18 starting
+1716139737: Config loaded from /mosquitto/config/mosquitto.conf.
+1716139737: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716139737: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716139737: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716139737: Error: /etc/mosquitto/passwd is not a file.
+1716139737: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716139737: Error opening password file "/etc/mosquitto/passwd".
+1716139797: mosquitto version 2.0.18 starting
+1716139797: Config loaded from /mosquitto/config/mosquitto.conf.
+1716139797: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716139797: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716139797: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716139797: Error: /etc/mosquitto/passwd is not a file.
+1716139797: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716139797: Error opening password file "/etc/mosquitto/passwd".
+1716139858: mosquitto version 2.0.18 starting
+1716139858: Config loaded from /mosquitto/config/mosquitto.conf.
+1716139858: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716139858: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716139858: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716139858: Error: /etc/mosquitto/passwd is not a file.
+1716139858: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716139858: Error opening password file "/etc/mosquitto/passwd".
+1716139918: mosquitto version 2.0.18 starting
+1716139918: Config loaded from /mosquitto/config/mosquitto.conf.
+1716139918: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716139918: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716139918: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716139918: Error: /etc/mosquitto/passwd is not a file.
+1716139918: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716139918: Error opening password file "/etc/mosquitto/passwd".
+1716139979: mosquitto version 2.0.18 starting
+1716139979: Config loaded from /mosquitto/config/mosquitto.conf.
+1716139979: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716139979: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716139979: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716139979: Error: /etc/mosquitto/passwd is not a file.
+1716139979: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716139979: Error opening password file "/etc/mosquitto/passwd".
+1716140039: mosquitto version 2.0.18 starting
+1716140039: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140039: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140039: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140039: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140039: Error: /etc/mosquitto/passwd is not a file.
+1716140039: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140039: Error opening password file "/etc/mosquitto/passwd".
+1716140100: mosquitto version 2.0.18 starting
+1716140100: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140100: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140100: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140100: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140100: Error: /etc/mosquitto/passwd is not a file.
+1716140100: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140100: Error opening password file "/etc/mosquitto/passwd".
+1716140160: mosquitto version 2.0.18 starting
+1716140160: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140160: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140160: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140160: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140160: Error: /etc/mosquitto/passwd is not a file.
+1716140160: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140160: Error opening password file "/etc/mosquitto/passwd".
+1716140221: mosquitto version 2.0.18 starting
+1716140221: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140221: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140221: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140221: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140221: Error: /etc/mosquitto/passwd is not a file.
+1716140221: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140221: Error opening password file "/etc/mosquitto/passwd".
+1716140282: mosquitto version 2.0.18 starting
+1716140282: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140282: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140282: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140282: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140282: Error: /etc/mosquitto/passwd is not a file.
+1716140282: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140282: Error opening password file "/etc/mosquitto/passwd".
+1716140342: mosquitto version 2.0.18 starting
+1716140342: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140342: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140342: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140342: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140342: Error: /etc/mosquitto/passwd is not a file.
+1716140342: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140342: Error opening password file "/etc/mosquitto/passwd".
+1716140403: mosquitto version 2.0.18 starting
+1716140403: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140403: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140403: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140403: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140403: Error: /etc/mosquitto/passwd is not a file.
+1716140403: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140403: Error opening password file "/etc/mosquitto/passwd".
+1716140464: mosquitto version 2.0.18 starting
+1716140464: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140464: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140464: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140464: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140464: Error: /etc/mosquitto/passwd is not a file.
+1716140464: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140464: Error opening password file "/etc/mosquitto/passwd".
+1716140524: mosquitto version 2.0.18 starting
+1716140524: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140524: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140524: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140524: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140524: Error: /etc/mosquitto/passwd is not a file.
+1716140524: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140524: Error opening password file "/etc/mosquitto/passwd".
+1716140585: mosquitto version 2.0.18 starting
+1716140585: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140585: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140585: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140585: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140585: Error: /etc/mosquitto/passwd is not a file.
+1716140585: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140585: Error opening password file "/etc/mosquitto/passwd".
+1716140645: mosquitto version 2.0.18 starting
+1716140645: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140645: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140645: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140645: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140645: Error: /etc/mosquitto/passwd is not a file.
+1716140645: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140645: Error opening password file "/etc/mosquitto/passwd".
+1716140706: mosquitto version 2.0.18 starting
+1716140706: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140706: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140706: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140706: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140706: Error: /etc/mosquitto/passwd is not a file.
+1716140706: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140706: Error opening password file "/etc/mosquitto/passwd".
+1716140766: mosquitto version 2.0.18 starting
+1716140766: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140766: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140766: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140766: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140766: Error: /etc/mosquitto/passwd is not a file.
+1716140766: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140766: Error opening password file "/etc/mosquitto/passwd".
+1716140827: mosquitto version 2.0.18 starting
+1716140827: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140827: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140827: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140827: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140827: Error: /etc/mosquitto/passwd is not a file.
+1716140827: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140827: Error opening password file "/etc/mosquitto/passwd".
+1716140887: mosquitto version 2.0.18 starting
+1716140887: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140887: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140887: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140887: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140887: Error: /etc/mosquitto/passwd is not a file.
+1716140887: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140887: Error opening password file "/etc/mosquitto/passwd".
+1716140948: mosquitto version 2.0.18 starting
+1716140948: Config loaded from /mosquitto/config/mosquitto.conf.
+1716140948: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716140948: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716140948: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716140948: Error: /etc/mosquitto/passwd is not a file.
+1716140948: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716140948: Error opening password file "/etc/mosquitto/passwd".
+1716141008: mosquitto version 2.0.18 starting
+1716141008: Config loaded from /mosquitto/config/mosquitto.conf.
+1716141008: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716141008: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716141008: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716141008: Error: /etc/mosquitto/passwd is not a file.
+1716141008: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716141008: Error opening password file "/etc/mosquitto/passwd".
+1716141068: mosquitto version 2.0.18 starting
+1716141068: Config loaded from /mosquitto/config/mosquitto.conf.
+1716141068: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716141068: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716141068: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716141068: Error: /etc/mosquitto/passwd is not a file.
+1716141068: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716141068: Error opening password file "/etc/mosquitto/passwd".
+1716141129: mosquitto version 2.0.18 starting
+1716141129: Config loaded from /mosquitto/config/mosquitto.conf.
+1716141129: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716141129: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716141129: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716141129: Error: /etc/mosquitto/passwd is not a file.
+1716141129: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716141129: Error opening password file "/etc/mosquitto/passwd".
+1716184358: mosquitto version 2.0.18 starting
+1716184358: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184358: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184358: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184358: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184358: Error: /etc/mosquitto/passwd is not a file.
+1716184358: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184358: Error opening password file "/etc/mosquitto/passwd".
+1716184418: mosquitto version 2.0.18 starting
+1716184418: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184418: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184418: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184418: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184418: Error: /etc/mosquitto/passwd is not a file.
+1716184418: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184418: Error opening password file "/etc/mosquitto/passwd".
+1716184479: mosquitto version 2.0.18 starting
+1716184479: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184479: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184479: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184479: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184479: Error: /etc/mosquitto/passwd is not a file.
+1716184479: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184479: Error opening password file "/etc/mosquitto/passwd".
+1716184539: mosquitto version 2.0.18 starting
+1716184539: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184539: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184539: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184539: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184539: Error: /etc/mosquitto/passwd is not a file.
+1716184539: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184539: Error opening password file "/etc/mosquitto/passwd".
+1716184600: mosquitto version 2.0.18 starting
+1716184600: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184600: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184600: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184600: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184600: Error: /etc/mosquitto/passwd is not a file.
+1716184600: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184600: Error opening password file "/etc/mosquitto/passwd".
+1716184660: mosquitto version 2.0.18 starting
+1716184660: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184660: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184660: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184660: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184660: Error: /etc/mosquitto/passwd is not a file.
+1716184660: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184660: Error opening password file "/etc/mosquitto/passwd".
+1716184721: mosquitto version 2.0.18 starting
+1716184721: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184721: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184721: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184721: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184721: Error: /etc/mosquitto/passwd is not a file.
+1716184721: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184721: Error opening password file "/etc/mosquitto/passwd".
+1716184781: mosquitto version 2.0.18 starting
+1716184781: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184781: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184781: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184781: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184781: Error: /etc/mosquitto/passwd is not a file.
+1716184781: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184781: Error opening password file "/etc/mosquitto/passwd".
+1716184842: mosquitto version 2.0.18 starting
+1716184842: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184842: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184842: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184842: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184842: Error: /etc/mosquitto/passwd is not a file.
+1716184842: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184842: Error opening password file "/etc/mosquitto/passwd".
+1716184902: mosquitto version 2.0.18 starting
+1716184902: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184902: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184902: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184902: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184902: Error: /etc/mosquitto/passwd is not a file.
+1716184902: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184902: Error opening password file "/etc/mosquitto/passwd".
+1716184962: mosquitto version 2.0.18 starting
+1716184962: Config loaded from /mosquitto/config/mosquitto.conf.
+1716184962: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716184962: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716184962: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716184962: Error: /etc/mosquitto/passwd is not a file.
+1716184962: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716184962: Error opening password file "/etc/mosquitto/passwd".
+1716185023: mosquitto version 2.0.18 starting
+1716185023: Config loaded from /mosquitto/config/mosquitto.conf.
+1716185023: Warning: File /etc/mosquitto/passwd has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /etc/mosquitto/passwd`.
+1716185023: Warning: File /etc/mosquitto/passwd owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /etc/mosquitto/passwd`.
+1716185023: Warning: File /etc/mosquitto/passwd group is not mosquitto. Future versions will refuse to load this file.
+1716185023: Error: /etc/mosquitto/passwd is not a file.
+1716185023: Error: Unable to open pwfile "/etc/mosquitto/passwd".
+1716185023: Error opening password file "/etc/mosquitto/passwd".
