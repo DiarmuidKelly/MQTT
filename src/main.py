@@ -15,12 +15,12 @@ logging.basicConfig(format='%(asctime)s -- %(levelname)s :  %(funcName)s(ln:%(li
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 
-def on_connect(client, userdata, flags, rc):
+def on_connect(client, userdata, flags, reason_code, properties):
     """ The callback for when the client receives a CONNACK response from the server."""
-    logger.debug('Connected with result code ' + str(rc))
+    logger.debug('Connected with result code ' + str(reason_code))
     pass
 
-def on_publish(client, userdata, result):
+def on_publish(client, userdata, mid, reason_code, properties):
     """create function for callback"""
     logger.debug("data published")
     pass
@@ -48,7 +48,7 @@ def on_message(client, userdata, msg):
     write_api.write(bucket=bucket, record=Point.from_dict(json_body))
 
 def main():
-    mqtt_client = mqtt.Client("mqtt-listener")
+    mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, "mqtt-listener")
     mqtt_client.username_pw_set(config["MQTT_USER"], config["MQTT_PASSWORD"])
     mqtt_client.on_connect = on_connect
     mqtt_client.on_message = on_message
@@ -60,7 +60,7 @@ def main():
 
 
 def pubber():
-    mqtt_client1 = mqtt.Client("mqtt-publisher")
+    mqtt_client1 = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, "mqtt-publisher")
     mqtt_client1.username_pw_set(config["MQTT_USER"], config["MQTT_PASSWORD"])
     mqtt_client1.connect(config["MQTT_ADDRESS"], 1883)
 

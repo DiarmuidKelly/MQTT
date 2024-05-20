@@ -1,3 +1,3 @@
-paho-mqtt
+paho-mqtt==2.1.0
 pytest
-influxdb-client[ciso]
+influxdb-client[ciso]==1.43.0
