@@ -3,12 +3,17 @@ include:
   - mosquitto/docker-compose.mosquitto.yaml
   - grafana/docker-compose.grafana.yaml
 
-# services:
-#   # mosquitto:
-#   # influxdb:
-#   grafana:
-#     depends_on:
-#       - influxdb
+services:
+  mqtt-to-influxdb:
+    depends_on:
+      - influxdb
+      - mosquitto
+    image: mqtt-to-influxdb
+    build: .
+    networks:
+      - main
+    environment:
+      - RUN_ENV=DEFAULT
 
 networks:
   main:

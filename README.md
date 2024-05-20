@@ -1,4 +1,4 @@
-# Ultra light-weight MQTT to InfluxDB client
+# MQTT-to-InfluxDB
 
 Pass MQTT message to InfluxDB
 

@@ -13,7 +13,6 @@ import threading
 
 logging.basicConfig(format='%(asctime)s -- %(levelname)s :  %(funcName)s(ln:%(lineno)d) :: %(message)s')
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.DEBUG)
 
 def on_connect(client, userdata, flags, reason_code, properties):
     """ The callback for when the client receives a CONNACK response from the server."""
@@ -83,7 +82,11 @@ def pubber():
 
 if __name__ == '__main__':
     logger.info('MQTT to InfluxDB bridge')
-    config = parse(config_section="TEST")
+    config_path = os.environ.get("CONFIG_PATH", "src/config.ini")
+    env = os.environ.get("RUN_ENV", "TEST")
+    config = parse(config_path=config_path, config_section=env)
+
+    logger.setLevel(config['LOG_LEVEL'])
 
     m = threading.Thread(target=pubber, daemon=True)
     m.start()
