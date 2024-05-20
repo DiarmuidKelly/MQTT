@@ -13,7 +13,7 @@ import threading
 
 logging.basicConfig(format='%(asctime)s -- %(levelname)s :  %(funcName)s(ln:%(lineno)d) :: %(message)s')
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
+logger.setLevel(logging.DEBUG)
 
 def on_connect(client, userdata, flags, reason_code, properties):
     """ The callback for when the client receives a CONNACK response from the server."""
