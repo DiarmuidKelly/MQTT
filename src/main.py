@@ -45,7 +45,11 @@ def on_message(client, userdata, msg):
             "fields": s['fields'],
             "time": str(dtime)
         }
-    write_api.write(bucket=bucket, record=Point.from_dict(json_body))
+    try:
+        write_api.write(bucket=bucket, record=Point.from_dict(json_body))
+    except Exception as e:
+        #TODO: fix this long term.
+        logger.error(f"Failed to publish data: {e}")
 
 def main():
     mqtt_client = mqtt.Client(mqtt.CallbackAPIVersion.VERSION2, "mqtt-listener")
