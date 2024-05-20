@@ -12,7 +12,7 @@ services:
     volumes:
       - ./mosquitto.log:/mosquitto/log/mosquitto.log:rw
       - ./mosquitto.conf:/mosquitto/config/mosquitto.conf:rw
-      - ./passwd:/etc/mosquitto/passwd:rw
+      - ./passwd:/etc/mosquitto/passwd.raw:rw
 
 networks:
   main:
